@@ -1,4 +1,14 @@
 <html>
 <head><tittle>lista spese</tittle></head>
 <center><h1>lista spesa</h1></center>
-<h2>
+<h2>lista della spesa di oggi: </h2>
+<ul>
+<li>formaggio
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
